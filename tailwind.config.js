@@ -12,6 +12,7 @@ module.exports = {
     extend: {
       fontFamily: {
         Knewave: ["Knewave", "cursive"],
+        Poppins: ["Poppins", "sans-serif"],
       },
     },
   },
